@@ -17,11 +17,6 @@ Thumbs.db
 # Compiled class files
 *.class
 
-# Jar files
-*.jar
-*.war
-*.ear
-
 # Temporary files
 *.tmp
 *.swp
