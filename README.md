@@ -42,7 +42,6 @@ To run the CLI tool with arguments:
 
 ```
 AtY0laUfhglK3lC7
-SAZuXPGUrfbcn5UA
 ```
 
 Each cookie listed is among the most active for the given date.
